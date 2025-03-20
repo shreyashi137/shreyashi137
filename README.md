@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**shreyashi137/shreyashi137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Hi there! 👋 I'm Shreyashi Chavan**  
 
-Here are some ideas to get you started:
+🎯 **Aspiring Data Analyst** | **Power BI | Python | SQL | Machine Learning | Excel**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **About Me:**  
+- 🎓 **B.Com Graduate** with expertise in **Data Analysis & Visualization**  
+- 📊 Passionate about **turning data into insights** with **Power BI & Python**  
+- 🛠️ Skilled in **SQL, ML, and Dashboard Development**  
+- 🔍 Currently working on **Indian Startup Funding & Trend Trackers** projects  
+- 📚 Always learning and exploring **new data trends & tools**  
+
+### 🏆 **My Projects:**  
+- **Virtual Veins** – Data analysis using **Streamlit & Python**  
+- **Trend Trackers** – Customer behavior analysis with **Power BI & SQL**  
+- **Indian Startup Funding** – Investment trends analysis using **Power BI, SQL & Python**  
+- **Banking Campaign 2775** – Data-driven insights using **Power BI & SQL**  
+
+### 📫 **Connect With Me:**  
+- 🔗 **GitHub:** shreyashi137](https://github.com/shreyashi137  
+- 💼 **LinkedIn**:  www.linkedin.com/in/shreyashi-chavan-89ab2634b 
+
