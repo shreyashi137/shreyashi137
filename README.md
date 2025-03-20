@@ -17,6 +17,6 @@
 - **Banking Campaign 2775** – Data-driven insights using **Power BI & SQL**  
 
 ### 📫 **Connect With Me:**  
-- 🔗 **GitHub:** shreyashi137](https://github.com/shreyashi137  
+- 🔗 **GitHub:** shreyashi137](https://github.com/shreyashi137)
 - 💼 **LinkedIn**:  www.linkedin.com/in/shreyashi-chavan-89ab2634b 
 
